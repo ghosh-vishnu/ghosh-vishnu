@@ -87,6 +87,14 @@ No activity tracked
 
 ------------------------------------------------------------------------
 
+## Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+------------------------------------------------------------------------
+
 ## ⭐ Featured Projects
 
 -   Atlas Trading Platform
