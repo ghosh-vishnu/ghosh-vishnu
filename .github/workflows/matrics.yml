@@ -1,0 +1,50 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          user: ghosh-vishnu
+
+          filename: github-metrics.svg
+
+          base: header, activity, community, repositories, metadata
+
+          config_timezone: Asia/Kolkata
+
+          plugin_languages: yes
+          plugin_languages_limit: 10
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+
+          plugin_followup: yes
+
+          plugin_isocalendar: yes
+
+          plugin_achievements: yes
+
+          plugin_lines: yes
+
+          plugin_habits: yes
+
+          plugin_introduction: yes
+
+          plugin_topics: yes
+
+          plugin_stars: yes
