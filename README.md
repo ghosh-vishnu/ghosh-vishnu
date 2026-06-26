@@ -3,8 +3,7 @@
 ```{=html}
 <h3 align="center">
 ```
-Software Engineer \| AI Developer \| Backend Engineer \| Data Analytics
-Trainer
+Software Engineer | AI Developer | FastAPI | React | ML | Building AI & Trading Platforms
 ```{=html}
 </h3>
 ```
