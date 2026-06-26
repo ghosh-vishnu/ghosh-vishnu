@@ -1,28 +1,9 @@
 # Hi 👋, I'm Vishnu Kumar Ghosh
-
-```{=html}
-<h3 align="center">
-```
-Software Engineer | AI Developer | FastAPI | React | ML | Building AI & Trading Platforms
-```{=html}
-</h3>
-```
-```{=html}
 <p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;FastAPI+%7C+React+%7C+Next.js;AI+%26+Machine+Learning+Developer;Building+Atlas+Trading+Platform;Always+Learning+New+Technologies" />`{=html}
-```{=html}
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;FastAPI+%7C+React+%7C+Next.js;AI+%26+Machine+Learning+Developer;Building+Atlas+Trading+Platform;Always+Learning+New+Technologies" />
 </p>
-```
-```{=html}
 <p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=ghosh-vishnu&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
+<img src="https://komarev.com/ghpvc/?username=ghosh-vishnu&label=Profile%20Views&color=0e75b6&style=for-the-badge"/></p>
 
 ## 🚀 About Me
 
