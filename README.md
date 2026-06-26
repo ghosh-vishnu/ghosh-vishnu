@@ -43,6 +43,10 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghosh-vishnu&layout=compact&theme=tokyonight)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosh-vishnu&layout=donut&theme=tokyonight"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ghosh-vishnu&theme=tokyo-night"/>
+
 ------------------------------------------------------------------------
 
 ## 🏆 GitHub Trophy
