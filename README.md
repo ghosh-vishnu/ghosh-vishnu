@@ -68,11 +68,11 @@
 # 📈 GitHub Metrics
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/ghosh-vishnu/ghosh-vishnu/main/github-metrics.svg"/>
-
 </p>
+
 ------------------------------------------------------------------------
+
 ## ⭐ Featured Projects
 
 -   Atlas Trading Platform
