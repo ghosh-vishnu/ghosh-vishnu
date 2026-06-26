@@ -5,16 +5,20 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ghosh-vishnu&label=Profile%20Views&color=0e75b6&style=for-the-badge"/></p>
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
--   💼 Software Engineer
--   🤖 AI, Machine Learning & Backend Development
--   📊 Data Analytics Trainer
--   🌍 Location: Jamshedpur, Jharkhand, India
--   🏢 Company: https://venturingdigitally.com/
--   🌐 Portfolio: https://your-portfolio.com *(replace after creating)*
--   📧 Email: **vishnughosh.ds@gmail.com**
+Software Engineer passionate about building scalable AI applications, backend systems, and algorithmic trading platforms.
 
+- 🔭 Building **Atlas Trading Platform**
+- 🤖 AI & Machine Learning Developer
+- ⚡ FastAPI Backend Engineer
+- 📊 Data Analytics Trainer
+- 🌱 Currently learning Distributed Systems & Kubernetes
+- 💬 Ask me about Python, FastAPI, AI, ML and PostgreSQL
+
+📍 Jamshedpur, Jharkhand, India
+
+📧 **vishnughosh.ds@gmail.com**
 ------------------------------------------------------------------------
 
 ## 🛠 Tech Stack
@@ -35,17 +39,19 @@
 
 ------------------------------------------------------------------------
 
-## 📈 GitHub Stats
+<p align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ghosh-vishnu&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api?username=ghosh-vishnu&show_icons=true&theme=tokyonight)
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ghosh-vishnu&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ghosh-vishnu&theme=tokyonight)
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghosh-vishnu&layout=compact&theme=tokyonight)
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosh-vishnu&layout=donut&theme=tokyonight"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosh-vishnu&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ghosh-vishnu&theme=tokyo-night"/>
+</p>
 
 ------------------------------------------------------------------------
 
@@ -64,7 +70,9 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
+
   <img src="https://raw.githubusercontent.com/ghosh-vishnu/ghosh-vishnu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 </p>
 
 ## ⏰ Weekly Development Breakdown
@@ -79,11 +87,11 @@ No activity tracked
 
 ------------------------------------------------------------------------
 
-# 📈 GitHub Metrics
-
-<p align="center">
+<details>  
+<summary>Advanced GitHub Metrics</summary>
+<br>
 <img src="https://raw.githubusercontent.com/ghosh-vishnu/ghosh-vishnu/main/github-metrics.svg"/>
-</p>
+</details>
 
 ------------------------------------------------------------------------
 
@@ -97,12 +105,12 @@ No activity tracked
 
 ## ⭐ Featured Projects
 
--   Atlas Trading Platform
--   AI Chatbot
--   Subscription System
--   Machine Learning Projects
--   Data Analytics Course
-
+| Project | Description | Tech |
+|---------|-------------|------|
+| Atlas Trading Platform | Production-ready Algorithmic Trading Platform | FastAPI • React • PostgreSQL |
+| AI Chatbot | OpenAI powered assistant | FastAPI • OpenAI |
+| Subscription System | Subscription Management Platform | FastAPI |
+| Data Analytics | Power BI & Python Dashboards | Python • SQL |
 ------------------------------------------------------------------------
 
 ## 📜 Certifications
@@ -118,19 +126,31 @@ Coming Soon...
 ------------------------------------------------------------------------
 
 ## 🧩 Coding Profiles
-
+  
 -   LeetCode: Coming Soon
 -   HackerRank: Coming Soon
 
 ------------------------------------------------------------------------
 
-## 🌐 Connect With Me
+<p align="center">
 
--   GitHub: https://github.com/ghosh-vishnu
--   X: https://x.com/VishnuKumarGho1?t=otQcBBfKeq65sGTEi6ww2g&s=09
--   Instagram: https://www.instagram.com/vainu_58/
--   Email: vishnughosh.ds@gmail.com
+<a href="https://github.com/ghosh-vishnu">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
+<a href="https://www.linkedin.com/in/vishnu-ghosh-a23071230/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://x.com/VishnuKumarGho1">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+<a href="https://www.instagram.com/vainu_58/">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+</p>
 ------------------------------------------------------------------------
 
 ⭐ If you like my work, consider giving a star to my repositories!
