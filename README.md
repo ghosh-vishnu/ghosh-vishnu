@@ -85,6 +85,7 @@ Software Engineer | AI Developer | FastAPI | React | ML | Building AI & Trading 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ghosh-vishnu/ghosh-vishnu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+
 ------------------------------------------------------------------------
 
 ## ⭐ Featured Projects
