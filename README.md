@@ -63,6 +63,11 @@
   <img src="https://raw.githubusercontent.com/ghosh-vishnu/ghosh-vishnu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
+## ⏰ Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ------------------------------------------------------------------------
 
 # 📈 GitHub Metrics
