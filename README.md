@@ -19,7 +19,7 @@
 
 ## 🛠 Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,docker,git,github,vscode,linux,postgresql,mysql,sklearn,tensorflow,pytorch"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,redis,docker,git,github,vscode,linux,postgresql,mysql,sklearn,tensorflow,pytorch"/>
 </p>
 
 
