@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/ghosh-vishnu/ghosh-vishnu/main/assets/ChatGPT Image Jun 26, 2026, 05_14_51 PM.png"/>
+</p>
+
 # Hi 👋, I'm Vishnu Kumar Ghosh
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;FastAPI;AI+%26+Machine+Learning+Engineer;Building+Atlas+Trading+Platform;Always+Learning+New+Technologies" />
