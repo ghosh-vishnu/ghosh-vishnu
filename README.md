@@ -70,6 +70,7 @@ Software Engineer passionate about building scalable AI applications, backend sy
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ghosh-vishnu&theme=tokyo-night)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghosh-vishnu&theme=github_dark"/>
+
 ------------------------------------------------------------------------
 
 ## 🐍 Contribution Snake
