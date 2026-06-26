@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vishnu Kumar Ghosh
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;FastAPI+%7C+React+%7C+Next.js;AI+%26+Machine+Learning+Developer;Building+Atlas+Trading+Platform;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;FastAPI;AI+%26+Machine+Learning+Engineer;Building+Atlas+Trading+Platform;Always+Learning+New+Technologies" />
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ghosh-vishnu&label=Profile%20Views&color=0e75b6&style=for-the-badge"/></p>
@@ -18,14 +18,10 @@
 ------------------------------------------------------------------------
 
 ## 🛠 Tech Stack
-
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=python,fastapi,django,react,nextjs,typescript,javascript,tailwind,nodejs,postgres,redis,docker,git,github,vscode,linux,postgresql,mysql,sklearn,tensorflow,pytorch"/>`{=html}
-```{=html}
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,docker,git,github,vscode,linux,postgresql,mysql,sklearn,tensorflow,pytorch"/>
 </p>
-```
+
 
 ------------------------------------------------------------------------
 
