@@ -1,5 +1,9 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/ghosh-vishnu/ghosh-vishnu/main/assets/ChatGPT Image Jun 26, 2026, 05_14_51 PM.png"/>
+<img
+src="https://raw.githubusercontent.com/ghosh-vishnu/ghosh-vishnu/main/assets/banner.png"
+width="100%"
+alt="Banner"/>
+
 </p>
 
 # Hi 👋, I'm Vishnu Kumar Ghosh
