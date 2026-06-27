@@ -90,7 +90,8 @@ Software Engineer passionate about building scalable AI applications, backend sy
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   10 mins               ███████████████████████▒░   92.93 %
+Other    0 secs                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
 ```
 
 <!--END_SECTION:waka-->
