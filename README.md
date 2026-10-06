@@ -88,11 +88,11 @@ Software Engineer passionate about building scalable AI applications, backend sy
 <!--START_SECTION:waka-->
 
 ```txt
-Python          7 hrs 26 mins         ████████████████░░░░░░░░░   63.36 %
-Bash            1 hr 37 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
-Markdown        1 hr 19 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
-Text            25 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-Other           22 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Python          7 hrs 16 mins         ███████████▒░░░░░░░░░░░░░   45.50 %
+Other           3 hrs 12 mins         █████░░░░░░░░░░░░░░░░░░░░   20.06 %
+Bash            2 hrs 33 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.97 %
+Markdown        1 hr 38 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
+Apache Config   32 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
 ```
 
 <!--END_SECTION:waka-->
