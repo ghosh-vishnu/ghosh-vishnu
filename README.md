@@ -88,7 +88,8 @@ Software Engineer passionate about building scalable AI applications, backend sy
 <!--START_SECTION:waka-->
 
 ```txt
-Python   9 mins                █████████████████████████   100.00 %
+Markdown   21 mins               █████████████████▒░░░░░░░   69.32 %
+Python     9 mins                ███████▓░░░░░░░░░░░░░░░░░   30.68 %
 ```
 
 <!--END_SECTION:waka-->
